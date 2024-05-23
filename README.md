@@ -14,4 +14,4 @@ This project is a React Native application aimed at managing user data with feat
 
 The application integrates SQLite for local data storage, ensuring user data persistence across sessions. Additionally, it utilizes React Navigation for seamless screen navigation and UI Kitten for consistent and appealing UI components.
 
-<img source="sqlite_phone.gif"  width="300"/>
+<img src="sqlite_phone.gif" width="300" height="500">
